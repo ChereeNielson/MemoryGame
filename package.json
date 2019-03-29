@@ -2,6 +2,8 @@
   "name": "memorygame",
   "version": "0.1.0",
   "private": true,
+  "author": "Cheree Nielson",
+  "homepage": "https://chereenielson.github.io/MemoryGame/",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
