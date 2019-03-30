@@ -6,7 +6,7 @@ const Header = props => (
   
   <div className="main-container">
     <nav className="navbar sticky-top navbar-light bg-light justify-content-end">
-      <h5 className="text-muted">Current game score: {props.currentScore} | Top score: {props.topScore}</h5>
+      <h5 className="text-muted">Current Game Score: {props.currentScore} | Top Score: {props.topScore}</h5>
     </nav>
     
     <div className="jumbotron text-muted">
