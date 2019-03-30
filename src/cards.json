@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./images/Cheer.gif",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./images/Friend.gif",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./images/Funshine.gif",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./images/Grumpy.gif",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./images/Tenderheart.gif",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./images/Wish.gif",
+      "clicked": false    
+    },
+    {
+      "id": 7,
+      "image": "./images/LaughALot.gif",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./images/DoYourBest.gif",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./images/Champ.gif",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./images/LoveALot.gif",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./images/Harmony.gif",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./images/Bedtime.gif",
+      "clicked": false
+    }
+  ]
