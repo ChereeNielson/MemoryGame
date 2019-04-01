@@ -1,5 +1,11 @@
-# Memory Game #
-This is a memory game built with React. This game offers an assortment of pictures for the user to select. Each time you click, the pictures will shuffle into a new position. The object of the game is to click through the entire assortment of pictures without clicking the same picture twice. Can you do it?
+# The React Memory Game #
+This is a memory game built with React. This game offers an assortment of pictures for the user to select. Each time you click, the pictures will shuffle into a new position.
+
+## Game Rules ##
+The object of the game is to click on an image to earn points, but be careful to not click on the same image twice! If you do, you'll reset your game. 
+
+## Goal ##
+To win by clicking on each picture only once. 
 
 Want to put your memory to the test? Click [here](https://.herokuapp.com/.)!!
 
