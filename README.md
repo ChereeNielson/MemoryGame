@@ -7,7 +7,7 @@ The object of the game is to click on an image to earn points, but be careful to
 ## Goal ##
 To click through the entire assortment of Care Bear cards without clicking the same Care Bear twice. Can you do it?  
 
-Want to put your memory to the test? Click [here](https://chereenielson.github.io/MemoryGame/) to play!!
+Do you "Care-a-Lot" and want to put your memory to the test? Click [here](https://chereenielson.github.io/MemoryGame/) to play!!
 
 <p align="center">
 <img align="center" src="/public/images/Cousins.gif" width="100%"/>
