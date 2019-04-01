@@ -4,13 +4,13 @@
     background: #E9E9FF;
   }
   
-  nav.navbar.sticky-top {
+  .navbar {
     background: #E9E9FF;  
     border-radius: 6px; 
     margin-bottom: 20px;
   }
 
-  h5.text-muted {
+  h5 {
     text-align: right;
-    font-family: 
+    font-family: inherit;
   }
