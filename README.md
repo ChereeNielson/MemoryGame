@@ -10,7 +10,7 @@ To click through the entire assortment of Care Bear cards without clicking the s
 Do you "Care-a-Lot" and want to put your memory to the test? Click [here](https://chereenielson.github.io/MemoryGame/) to play!!
 
 <p align="center">
-<img align="center" src="/public/images/CheerBear.gif" width="100%"/>
+<img align="center" src="/public/images/CheerBear.gif" =250x/>
 </p>
 
 ## Technology Used ##
