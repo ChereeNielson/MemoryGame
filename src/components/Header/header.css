@@ -4,7 +4,13 @@
     background: #E9E9FF;
   }
   
-  .navbar {
-      border-radius: 6px; 
-      margin-bottom: 20px;
+  nav.navbar.sticky-top {
+    background: #E9E9FF;  
+    border-radius: 6px; 
+    margin-bottom: 20px;
+  }
+
+  h5.text-muted {
+    text-align: right;
+    font-family: 
   }

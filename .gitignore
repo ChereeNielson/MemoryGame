@@ -16,6 +16,7 @@
 .env.production.local
 homework_instructions.md
 CreateReactAppREADME.md
+App.css
 
 npm-debug.log*
 yarn-debug.log*
