@@ -21,7 +21,7 @@ Do you "Care-a-Lot" and want to put your memory to the test? Click [here](https:
  * JSX
 
 <p align="center">
-<img align="center" src="/public/images/NiceDay.gif" width="100%"/>
+<img align="center" src="/public/images/NiceDay.gif" =250x/>
 </p>
  
 ## Built By ##
